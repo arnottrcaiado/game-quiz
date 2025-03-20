@@ -1,7 +1,7 @@
-# 📕 eBook: Crie Seu Jogo de Quiz com Python, Flask e PythonAnywhere
+# 📕 Seu Jogo de Quiz com Python, Flask e PythonAnywhere
 
 🎮 **Público-alvo:**  
-Estudantes de graduação em Jogos Digitais e Análise de Sistemas, com conhecimento básico em lógica de programação e HTML.
+Introdutório. Estudantes de graduação em Jogos Digitais e Análise de Sistemas, com conhecimento básico em lógica de programação e HTML.
 
 ---
 
