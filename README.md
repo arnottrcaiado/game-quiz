@@ -3,28 +3,6 @@
 🎮 **Público-alvo:**  
 Introdutório. Estudantes de graduação em Jogos Digitais e Análise de Sistemas, com conhecimento básico em lógica de programação e HTML.
 
----
-
-## 📑 Sumário
-
-1. [Introdução](#1-introdução)  
-2. [O que é um jogo de quiz?](#2-o-que-é-um-jogo-de-quiz)  
-3. [Visão geral do projeto](#3-visão-geral-do-projeto)  
-4. [Preparando o ambiente](#4-preparando-o-ambiente)  
-5. [Criando a estrutura base com Flask](#5-criando-a-estrutura-base-com-flask)  
-6. [Criando o frontend com HTML, CSS e JS](#6-criando-o-frontend-com-html-css-e-js)  
-7. [Lógica do quiz (JS)](#7-lógica-do-quiz-js)  
-8. [Salvando e carregando perguntas](#8-salvando-e-carregando-perguntas)  
-9. [Prototipando com GitHub](#9-prototipando-com-github)  
-10. [Deploy no PythonAnywhere](#10-deploy-no-pythonanywhere)  
-11. [Conectando GitHub ao PythonAnywhere](#11-conectando-github-ao-pythonanywhere)  
-12. [Melhorias futuras](#12-melhorias-futuras)  
-13. [Recursos úteis](#13-recursos-úteis)  
-14. [Conclusão](#14-conclusão)  
-15. [Arquitetura do Projeto](#15-arquitetura-do-projeto)
-
----
-
 ## ✅ 1. Introdução
 
 O objetivo deste é conduzir você na criação de um jogo de quiz web usando Flask, com uma interface interativa em HTML, CSS e JavaScript, e disponibilizá-lo online com PythonAnywhere.
