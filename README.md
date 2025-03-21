@@ -59,7 +59,12 @@ Vamos criar uma versão básica que pode ser expandida.
 
 ## 🖼️ 6. Criando o frontend com HTML, CSS e JS
 
+na pasta ../mysite/templates
+
 - `index.html` com estrutura básica
+
+na pasta ../mysite/static/js
+
 - `script.js` para carregar perguntas e interações (use `fetch` para JSON)
 
 ---
